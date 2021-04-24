@@ -17,4 +17,6 @@ social: false  # includes social icons at the bottom of the page
 
 I'm a junior undergraduate student at [Johns Hopkins University](https://www.jhu.edu), studying Cognitive Science and Computer Science. 
 
-I do research under [Tal Linzen](http://tallinzen.net) studying what deep learning models can tell us about language acquisition. In addition, I do research under [Justin Halberda](https://pbs.jhu.edu/directory/justin-halberda/) to study our processing of visual scenes. 
+I do research under [Tal Linzen](http://tallinzen.net) studying what deep learning models can tell us about language acquisition. 
+
+In addition, I do research under [Justin Halberda](https://pbs.jhu.edu/directory/justin-halberda/) studying our processing of visual scenes. 
